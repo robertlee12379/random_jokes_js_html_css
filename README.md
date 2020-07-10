@@ -5,7 +5,7 @@
 ![2](https://user-images.githubusercontent.com/55764020/87203063-770f6700-c2c7-11ea-9779-7df76dac9cea.JPG)
 
 ## Link
-[](https://robertlee12379.github.io/random_jokes_js_html_css/)
+[Link](https://robertlee12379.github.io/random_jokes_js_html_css/)
 
 ## Features
 
