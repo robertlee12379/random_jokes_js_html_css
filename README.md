@@ -13,3 +13,4 @@
 * Used Fetch API to pull data
 * Included CSS to style the colors, layouts, and fonts
 * Utilized: JS, HTML, CSS
+* This project is a part of the Frontend Developer Career Path provided by scrimba.com
